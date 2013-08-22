@@ -1,5 +1,6 @@
 package api
 
+// just for study
 import (
     _ "github.com/qiniu/api/url"
     _ "github.com/qiniu/api/conf"
@@ -9,4 +10,3 @@ import (
     _ "github.com/qiniu/api/resumable/io"
     _ "github.com/qiniu/api/fop"
 )
-
